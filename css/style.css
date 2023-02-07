@@ -12,27 +12,6 @@
   --dark: rgb(20, 20, 20);
 }
 
-*,
-body,
-html{
- overflow-x: hidden;
-  scroll-behavior: smooth;
-
-}
-
-
-html{
-  scroll-behavior: smooth;
-}
-
-
-body{
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-  margin: 0 auto;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 
 .back-to-top {
